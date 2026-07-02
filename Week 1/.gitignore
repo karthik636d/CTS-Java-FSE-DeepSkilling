@@ -1,0 +1,27 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Eclipse
+.metadata/
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+# Compiled files
+*.class
+
+# Build directories
+target/
+build/
+out/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
