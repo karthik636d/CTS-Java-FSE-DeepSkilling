@@ -1,0 +1,11 @@
+*.log
+
+logs/
+
+*.class
+*.orig
+node_modules/
+
+.idea/
+
+.vscode/
